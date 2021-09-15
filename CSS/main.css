@@ -1,0 +1,13 @@
+.container {
+    background-color: white;
+}
+.logo-wrapper {
+    border: 5px solid black;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo-wrapper img {
+    max-height: 100px;
+}
